@@ -67,9 +67,9 @@
 // ***********************************************************************
 //	Commands map
 // ***********************************************************************
-#define DATA					1
-#define INSTRUCTION		0	
-#define FUNCTION_SET_8BITS 0x30
+#define DATA                    1
+#define INSTRUCTION             0	
+#define FUNCTION_SET_8BITS      0x30
 
 // ***********************************************************************
 //	Instructions map
